@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayEquality/ArrayEquality.iml" filepath="$PROJECT_DIR$/ArrayEquality/ArrayEquality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionsTimeout/ExceptionsTimeout.iml" filepath="$PROJECT_DIR$/ExceptionsTimeout/ExceptionsTimeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiTestModule.iml" filepath="$PROJECT_DIR$/MultiTestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nullness/Nullness.iml" filepath="$PROJECT_DIR$/Nullness/Nullness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectEquality/ObjectEquality.iml" filepath="$PROJECT_DIR$/ObjectEquality/ObjectEquality.iml" />
+    </modules>
+  </component>
+</project>
